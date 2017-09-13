@@ -7,7 +7,7 @@ function nestedTarget(){
 }
 
 function increaseRankBy(n){
-
+  var theElement = document.getElementsByClassName('ranked-list')
 }
 
 function deepestChild(){
